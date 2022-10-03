@@ -8,5 +8,5 @@
     <fragment
         android:id="@+id/appIntro"
         android:name="com.boltuix.androidpreferences.AppIntro"
-        android:label="AppIntro" />
+        android:label="App Intro" />
 </navigation>
