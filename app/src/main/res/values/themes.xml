@@ -3,6 +3,11 @@
     <style name="Base.Theme.AndroidPreferences" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="fontFamily">@font/jost_medium</item>
+        <item name="android:fontFamily">@font/jost_medium</item>
+        <item name="android:letterSpacing">.1</item>
+
     </style>
 
     <style name="Theme.AndroidPreferences" parent="Base.Theme.AndroidPreferences" />
